@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (this project has none, but keep the repo clean)
+node_modules/
+package-lock.json
+
+# Build/test scratch
+_*.js
+dist/
